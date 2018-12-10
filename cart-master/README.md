@@ -38,3 +38,8 @@ Added validations to it .
 Now the validations for the button is available
 Also the validation for textbox control is added.
 Also edited the php connection for validation.
+Added validation in logout.php file
+Modified changes in showcart.php file
+Merged the mybranch in master branch
+Deleted the mybranch
+.
